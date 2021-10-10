@@ -1,3 +1,4 @@
+// bw bad clock
 input.onButtonPressed(Button.A, function () {
     if (Clock > 59) {
         Clock = 0
